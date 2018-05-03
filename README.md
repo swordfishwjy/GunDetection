@@ -51,6 +51,10 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 python wjyTestGunTraining.py
 ```
 
+#### Simple Test
+I training the model using 16 figures with 200 steps. My laptop is slow.
+Result:
+Successful Recognition Rate:  **53%**
 
 
 #### Reference:
