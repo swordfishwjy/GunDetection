@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GunImageForTraining</folder>
+	<filename>10006.jpg</filename>
+	<path>/Users/swordfish/Documents/selfStudy/tensorflow/GunImageForTraining/10006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1114</width>
+		<height>741</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>189</ymin>
+			<xmax>907</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>
